@@ -1,0 +1,4 @@
+ticker,company,q2_2026_margin_per_bbl,normalized_margin_per_bbl,q2_2026_earnings_proxy_bn,earnings_proxy_definition,q2_2026_throughput_mbpd,baseline_basis,margin_premium_vs_normal_pct
+VLO,Valero Energy,23.62,11.47,4.444,Q2 2026 adjusted refining operating income ($bn),2.95,"Normalized margin = approximate average of 2024 and 2025 full-year refining margin per barrel, calculated from company refining margin / throughput.",105.92850915431562
+MPC,Marathon Petroleum,36.33,18.63,6.655,Q2 2026 R&M adjusted EBITDA ($bn),2.9,"Normalized margin = average reported R&M margin per barrel for 2023-2025: $23.00, $16.01, $16.87.",95.00805152979066
+PSX,Phillips 66,24.08,9.86,3.062,Q2 2026 refining income before income taxes ($bn),2.053,Normalized margin = average worldwide realized refining margin per barrel for 2024-2025: $8.84 and $10.88.,144.2190669371197

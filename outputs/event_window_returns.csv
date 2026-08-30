@@ -1,0 +1,55 @@
+event,event_date,ticker,window_trading_days,return_pct
+Conflict onset / initial major Hormuz disruption,2026-02-28,VLO,1,1.3028709925688498
+Conflict onset / initial major Hormuz disruption,2026-02-28,VLO,5,0.4839163501393573
+Conflict onset / initial major Hormuz disruption,2026-02-28,VLO,20,16.453399391869404
+Conflict onset / initial major Hormuz disruption,2026-02-28,MPC,1,1.0294576335379668
+Conflict onset / initial major Hormuz disruption,2026-02-28,MPC,5,2.802399840071179
+Conflict onset / initial major Hormuz disruption,2026-02-28,MPC,20,16.84301318263559
+Conflict onset / initial major Hormuz disruption,2026-02-28,PSX,1,-0.24970892853870552
+Conflict onset / initial major Hormuz disruption,2026-02-28,PSX,5,1.7605217389626837
+Conflict onset / initial major Hormuz disruption,2026-02-28,PSX,20,15.37646367707901
+Conflict onset / initial major Hormuz disruption,2026-02-28,XOM,1,-1.5497322652886059
+Conflict onset / initial major Hormuz disruption,2026-02-28,XOM,5,-2.4510341089681087
+Conflict onset / initial major Hormuz disruption,2026-02-28,XOM,20,11.185324514481753
+Conflict onset / initial major Hormuz disruption,2026-02-28,CVX,1,-0.43775672657523357
+Conflict onset / initial major Hormuz disruption,2026-02-28,CVX,5,-0.08439068833423491
+Conflict onset / initial major Hormuz disruption,2026-02-28,CVX,20,11.133975399471252
+Conflict onset / initial major Hormuz disruption,2026-02-28,XLE,1,-0.9116522695640894
+Conflict onset / initial major Hormuz disruption,2026-02-28,XLE,5,-1.2622799347818292
+Conflict onset / initial major Hormuz disruption,2026-02-28,XLE,20,9.335245473943644
+Brent stress peak near $118/bbl,2026-04-29,VLO,1,0.5093513884584011
+Brent stress peak near $118/bbl,2026-04-29,VLO,5,-5.8137639890503685
+Brent stress peak near $118/bbl,2026-04-29,VLO,20,-2.103732452845275
+Brent stress peak near $118/bbl,2026-04-29,MPC,1,2.6797936140215306
+Brent stress peak near $118/bbl,2026-04-29,MPC,5,1.641791528261205
+Brent stress peak near $118/bbl,2026-04-29,MPC,20,4.333659660799394
+Brent stress peak near $118/bbl,2026-04-29,PSX,1,3.262427353179853
+Brent stress peak near $118/bbl,2026-04-29,PSX,5,-1.0202349492745788
+Brent stress peak near $118/bbl,2026-04-29,PSX,20,2.5954873295110925
+Brent stress peak near $118/bbl,2026-04-29,XOM,1,-0.219816515338922
+Brent stress peak near $118/bbl,2026-04-29,XOM,5,-3.8662875000887165
+Brent stress peak near $118/bbl,2026-04-29,XOM,20,-4.339889175048784
+Brent stress peak near $118/bbl,2026-04-29,CVX,1,0.5670627637323955
+Brent stress peak near $118/bbl,2026-04-29,CVX,5,-3.672873617666328
+Brent stress peak near $118/bbl,2026-04-29,CVX,20,-3.908849432448347
+Brent stress peak near $118/bbl,2026-04-29,XLE,1,1.0503163263831716
+Brent stress peak near $118/bbl,2026-04-29,XLE,5,-3.43892907126615
+Brent stress peak near $118/bbl,2026-04-29,XLE,20,-3.52362948123619
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,VLO,1,-0.9041521631528382
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,VLO,5,2.1129433498871864
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,VLO,20,12.307476767950076
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,MPC,1,-0.9703149250890886
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,MPC,5,0.579625385686855
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,MPC,20,15.032149472557354
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,PSX,1,-0.10145240956328516
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,PSX,5,1.748962760466033
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,PSX,20,16.56866295225401
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,XOM,1,0.031872216687212074
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,XOM,5,0.050999462205281176
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,XOM,20,6.587955865202444
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,CVX,1,0.1903054276235272
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,CVX,5,-1.0852824505271585
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,CVX,20,6.761542818246213
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,XLE,1,0.4041728855717297
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,XLE,5,-0.7073121860688314
+Renewed tanker attacks / Brent spike near $105/bbl,2026-07-23,XLE,20,7.359378331556288

@@ -1,0 +1,6 @@
+ticker,company,business_type,q2_2026_metric,q2_2025_metric,metric_name,throughput_or_production_mbd,direct_middle_east_exposure_parameter,upstream_price_hedge_parameter,notes,metric_yoy_pct,refining_shock_capture_parameter
+MPC,Marathon Petroleum,Refining-heavy,36.33,17.58,R&M margin $/bbl,2.9,10,25,Q2 2026 R&M margin more than doubled; filing explicitly links higher product prices to Middle East supply disruptions.,106.65529010238907,92
+VLO,Valero Energy,Refining-heavy,24.42,11.78,USGC refining margin $/bbl,2.95,8,20,US Gulf Coast refining margin per barrel more than doubled; total refining throughput about 3.0 mbd.,107.30050933786082,96
+PSX,Phillips 66,Refining/midstream,24.08,10.11,Realized refining margin $/bbl,1.9,12,30,Realized refining margin increased sharply; 3:2:1 market crack spread averaged $41.63/bbl vs $21.65/bbl a year earlier.,138.18001978239366,78
+XOM,Exxon Mobil,Integrated major,14.525,7.1,Net income $bn,4.514,65,95,"Q2 earnings rose strongly, but production declined 116 kboe/d y/y with Middle East disruptions cited as a driver.",104.5774647887324,32
+CVX,Chevron,Integrated major,12.1,4.5,Net income $bn,3.4,58,90,Q2 earnings benefited from higher realizations and downstream margins; filing cites Middle East production curtailments/logistics risk.,168.88888888888886,28
