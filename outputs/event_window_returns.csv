@@ -2,34 +2,34 @@ event,event_date,ticker,window_trading_days,return_pct
 Conflict onset / initial major Hormuz disruption,2026-02-28,VLO,1,1.3028709925688498
 Conflict onset / initial major Hormuz disruption,2026-02-28,VLO,5,0.4839163501393573
 Conflict onset / initial major Hormuz disruption,2026-02-28,VLO,20,16.453399391869404
-Conflict onset / initial major Hormuz disruption,2026-02-28,MPC,1,1.0294576335379668
-Conflict onset / initial major Hormuz disruption,2026-02-28,MPC,5,2.802399840071179
-Conflict onset / initial major Hormuz disruption,2026-02-28,MPC,20,16.84301318263559
+Conflict onset / initial major Hormuz disruption,2026-02-28,MPC,1,1.029442918047896
+Conflict onset / initial major Hormuz disruption,2026-02-28,MPC,5,2.802392314867097
+Conflict onset / initial major Hormuz disruption,2026-02-28,MPC,20,16.843004629649293
 Conflict onset / initial major Hormuz disruption,2026-02-28,PSX,1,-0.24970892853870552
 Conflict onset / initial major Hormuz disruption,2026-02-28,PSX,5,1.7605217389626837
 Conflict onset / initial major Hormuz disruption,2026-02-28,PSX,20,15.37646367707901
 Conflict onset / initial major Hormuz disruption,2026-02-28,XOM,1,-1.5497322652886059
 Conflict onset / initial major Hormuz disruption,2026-02-28,XOM,5,-2.4510341089681087
 Conflict onset / initial major Hormuz disruption,2026-02-28,XOM,20,11.185324514481753
-Conflict onset / initial major Hormuz disruption,2026-02-28,CVX,1,-0.43775672657523357
-Conflict onset / initial major Hormuz disruption,2026-02-28,CVX,5,-0.08439068833423491
-Conflict onset / initial major Hormuz disruption,2026-02-28,CVX,20,11.133975399471252
-Conflict onset / initial major Hormuz disruption,2026-02-28,XLE,1,-0.9116522695640894
+Conflict onset / initial major Hormuz disruption,2026-02-28,CVX,1,-0.43777307566144064
+Conflict onset / initial major Hormuz disruption,2026-02-28,CVX,5,-0.08439887389520839
+Conflict onset / initial major Hormuz disruption,2026-02-28,CVX,20,11.133958102373809
+Conflict onset / initial major Hormuz disruption,2026-02-28,XLE,1,-0.9116454895647719
 Conflict onset / initial major Hormuz disruption,2026-02-28,XLE,5,-1.2622799347818292
 Conflict onset / initial major Hormuz disruption,2026-02-28,XLE,20,9.335245473943644
-Brent stress peak near $118/bbl,2026-04-29,VLO,1,0.5093513884584011
-Brent stress peak near $118/bbl,2026-04-29,VLO,5,-5.8137639890503685
-Brent stress peak near $118/bbl,2026-04-29,VLO,20,-2.103732452845275
-Brent stress peak near $118/bbl,2026-04-29,MPC,1,2.6797936140215306
-Brent stress peak near $118/bbl,2026-04-29,MPC,5,1.641791528261205
-Brent stress peak near $118/bbl,2026-04-29,MPC,20,4.333659660799394
+Brent stress peak near $118/bbl,2026-04-29,VLO,1,0.5093452328968073
+Brent stress peak near $118/bbl,2026-04-29,VLO,5,-5.813775881728178
+Brent stress peak near $118/bbl,2026-04-29,VLO,20,-2.1037384483720167
+Brent stress peak near $118/bbl,2026-04-29,MPC,1,2.679787092143626
+Brent stress peak near $118/bbl,2026-04-29,MPC,5,1.6417787206473688
+Brent stress peak near $118/bbl,2026-04-29,MPC,20,4.33365303387343
 Brent stress peak near $118/bbl,2026-04-29,PSX,1,3.262427353179853
 Brent stress peak near $118/bbl,2026-04-29,PSX,5,-1.0202349492745788
 Brent stress peak near $118/bbl,2026-04-29,PSX,20,2.5954873295110925
 Brent stress peak near $118/bbl,2026-04-29,XOM,1,-0.219816515338922
 Brent stress peak near $118/bbl,2026-04-29,XOM,5,-3.8662875000887165
 Brent stress peak near $118/bbl,2026-04-29,XOM,20,-4.339889175048784
-Brent stress peak near $118/bbl,2026-04-29,CVX,1,0.5670627637323955
+Brent stress peak near $118/bbl,2026-04-29,CVX,1,0.5670546829223522
 Brent stress peak near $118/bbl,2026-04-29,CVX,5,-3.672873617666328
 Brent stress peak near $118/bbl,2026-04-29,CVX,20,-3.908849432448347
 Brent stress peak near $118/bbl,2026-04-29,XLE,1,1.0503163263831716

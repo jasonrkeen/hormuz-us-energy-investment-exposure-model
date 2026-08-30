@@ -1,0 +1,7 @@
+ticker,company,scenario,earnings_proxy_definition,q2_current_segment_proxy_bn,q2_scenario_segment_proxy_bn,q2_excess_removed_bn,current_ttm_ebitda_bn,adjusted_ttm_ebitda_bn,enterprise_value_bn,current_ev_ebitda,implied_ev_ebitda_after_q2_replacement
+VLO,Valero Energy,mid_cycle,Q2 2026 adjusted refining operating income ($bn),4.444,1.1823324999999998,3.2616675,13.38,10.118332500000001,104.93,7.84,10.37028581537521
+VLO,Valero Energy,soft_cycle_20pct_below_normal,Q2 2026 adjusted refining operating income ($bn),4.444,0.5665081999999995,3.8774918000000005,13.38,9.502508200000001,104.93,7.84,11.042347745619415
+MPC,Marathon Petroleum,mid_cycle,Q2 2026 R&M adjusted EBITDA ($bn),6.655,1.9839700000000002,4.67103,15.4,10.72897,130.1,8.45,12.12604751434667
+MPC,Marathon Petroleum,soft_cycle_20pct_below_normal,Q2 2026 R&M adjusted EBITDA ($bn),6.655,1.0006786000000014,5.654321399999999,15.4,9.745678600000002,130.1,8.45,13.349506518714866
+PSX,Phillips 66,mid_cycle,Q2 2026 refining income before income taxes ($bn),3.062,0.40537694,2.65662306,9.93,7.27337694,113.2,11.4,15.563609714416918
+PSX,Phillips 66,soft_cycle_20pct_below_normal,Q2 2026 refining income before income taxes ($bn),3.062,0.03696198399999995,3.025038016,9.93,6.904961984,113.2,11.4,16.394007709572353

@@ -1,6 +1,7 @@
 from __future__ import annotations
 import pandas as pd
 
+
 def summarize_crack_regimes(crack: pd.DataFrame):
     if crack is None or crack.empty:
         return pd.DataFrame()
@@ -22,7 +23,8 @@ def summarize_crack_regimes(crack: pd.DataFrame):
         rows.append({
             "regime":name,
             "start":start,
-            "end":end,
+            "defined_window_end":end,
+            "observed_through":pd.Timestamp(s.index[-1]).date().isoformat(),
             "observations":len(s),
             "average_crack_usd_per_bbl":s.mean(),
             "median_crack_usd_per_bbl":s.median(),

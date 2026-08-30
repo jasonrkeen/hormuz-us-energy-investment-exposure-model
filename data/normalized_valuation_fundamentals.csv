@@ -1,0 +1,4 @@
+ticker,company,valuation_date,enterprise_value_bn,ttm_ebitda_bn,source_note
+VLO,Valero Energy,2026-08-28,104.93,13.38,StockAnalysis/S&P Global Market Intelligence snapshot used for article refresh
+MPC,Marathon Petroleum,2026-08-28,130.10,15.40,StockAnalysis/S&P Global Market Intelligence snapshot used for article refresh
+PSX,Phillips 66,2026-08-28,113.20,9.93,Enterprise value aligned to refreshed EV/EBITDA and TTM EBITDA snapshot
